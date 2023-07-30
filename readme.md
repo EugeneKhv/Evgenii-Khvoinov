@@ -1,2 +1,2 @@
 # Resume Khvoinov
-[resume](https://eugenekhv.github.io/cv/cv)
+[Resume](https://eugenekhv.github.io/Evgenii-Khvoinov/cv)
