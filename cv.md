@@ -12,7 +12,7 @@
 ---
 ### About Me 
 
-I have been programming websites for the past 2 years. I love programming and looking forward to work with new clients.
+I have been programming websites for the past 8 years. I love programming and looking forward to work with new clients.
 Experienced in:
 
 - Creating, administering, filling sites;
