@@ -47,7 +47,7 @@ Experienced in:
 ---
 
 ### Work experience:
-2014-2014 "Sait-servis" Irkutsk Russia - web page builder;
+2014-2014 "Sait-servis" Irkutsk Russia - web page builder;  
 2015-2022 Self-employed - Website creation and administration, SEO-optimization
 
 ---
