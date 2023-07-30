@@ -23,11 +23,11 @@ Experienced in:
 - Systems: Google Analytics, Yandex Metrica;
 
 ---
-### Skills 
-
-- HTML, 
-- CSS, 
-- JavaScript(Basic),
+### Technologies
+- HTML5, 
+- CSS 3, 
+- SASS,
+- JavaScript ES5 & ES6 (Basic),
 - PHP (Bacic)
 - MySQL
 - CMS Joomla, Drupal, WP, 
@@ -39,11 +39,17 @@ Experienced in:
 - GoogleAds,
 - GoogleAnalitics
 
+### Skills 
+- Responsive layout,
+- Cross-browser semantic valid layout,
+- Git,
+- SEO-optimization
+
 ---
 
 ### Work experience:
-2014-2016 "Sait-servis" Irkutsk Russia - web page builder;  
-2016-2022 Self-employed - Website creation and administration, SEO-optimization
+2014-2014 "Sait-servis" Irkutsk Russia - web page builder;
+2015-2022 Self-employed - Website creation and administration, SEO-optimization
 
 ---
 
@@ -55,5 +61,5 @@ Experienced in:
 
 ---
 ### Language:
-Russian - native  
+Russian - native
 English level - A2
