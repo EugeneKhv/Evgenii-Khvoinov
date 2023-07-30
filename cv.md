@@ -27,8 +27,8 @@ Experienced in:
 - CSS 3, 
 - SASS,
 - JavaScript ES5 & ES6 (Basic),
-- PHP (Bacic)
-- MySQL
+- PHP (Basic)
+- MySQL (Basic)
 - CMS Joomla, Drupal, WP, 
 - Bootstrap,
 - Adobe Photoshop‚ 
