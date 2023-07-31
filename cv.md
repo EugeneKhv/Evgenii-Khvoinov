@@ -1,4 +1,4 @@
-# Evgenii Khvoinov #
+## Khvoinov Evgenii
 ### Junior frontend developer
 ---
 ### Contacts 
@@ -9,13 +9,15 @@
 
 **Email**: lifeman1979@gmail.com
 
+**GitHub**: [https://github.com/EugeneKhv](https://github.com/EugeneKhv)
+
 ---
 ### About Me 
 
-I have been programming websites for the past 2 years. I love programming and looking forward to work with new clients.
+I have been programming websites for the past 8 years. I love programming and looking forward to work with new clients.
 Experienced in:
 
-- Creating, administering, filling sites;
+- Creating, administering, filling websites;
 - Seo-optimization, maintaining contextual and banner campaigns in search - engines;
 - Analytical work like audit of site`s ergonomics and semantics;
 - Contextual advertising campaigns (monitoring, adjustment, performance evaluation);
@@ -23,26 +25,33 @@ Experienced in:
 - Systems: Google Analytics, Yandex Metrica;
 
 ---
-### Skills 
-
-- HTML, 
-- CSS, 
-- JavaScript(Basic),
-- PHP (Bacic)
-- MySQL
+### Technologies
+- HTML5, 
+- CSS 3, 
+- SASS,
+- JavaScript ES5 & ES6 (Basic),
+- PHP (Basic)
+- MySQL (Basic)
 - CMS Joomla, Drupal, WP, 
 - Bootstrap,
 - Adobe Photoshop‚ 
 - CorelDraw,
 - Figma,
-- CEO,
-- GoogleAds,
-- GoogleAnalitics
+- SEO,
+- Google Ads,
+- Google Analitics,
+- Git
+
+### Skills 
+- Website creation,
+- Responsive layout,
+- Cross-browser semantic valid layout,
+- SEO-optimization
 
 ---
 
 ### Work experience:
-2014-2014 "Sait-servis" Irkutsk Russia - web page builder;
+2014-2014 "Sait-servis" Irkutsk Russia - web page builder;  
 2015-2022 Self-employed - Website creation and administration, SEO-optimization
 
 ---
@@ -50,10 +59,10 @@ Experienced in:
 ### Education and courses:
 - Google Ads certified specialist,
 - JavaScript https://learn.javascript.ru/,
-- Alexander Lushenko courses (JavaScript 2.0; function in JavaScript; Array methods in JavaScript; Object-oriented programming in JavaScript; PHP)
-- JS/FE Pre-School 2022
+- Alexander Lushenko courses (JavaScript 2.0; function in JavaScript; Array methods in JavaScript; Object-oriented programming in JavaScript; PHP) 
+- JS/FE Pre-School 2022 
 
 ---
 ### Language:
-Russian - native
+Russian - native  
 English level - A2
