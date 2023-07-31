@@ -1,3 +1,4 @@
+### Khvoinov Evgenii
 ### Junior frontend developer
 ---
 ### Contacts 
@@ -34,7 +35,7 @@ Experienced in:
 - Adobe Photoshop‚ 
 - CorelDraw,
 - Figma,
-- CEO,
+- SEO,
 - GoogleAds,
 - GoogleAnalitics
 
@@ -55,8 +56,8 @@ Experienced in:
 ### Education and courses:
 - Google Ads certified specialist,
 - JavaScript https://learn.javascript.ru/,
-- Alexander Lushenko courses (JavaScript 2.0; function in JavaScript; Array methods in JavaScript; Object-oriented programming in JavaScript; PHP)
-- JS/FE Pre-School 2022
+- Alexander Lushenko courses (JavaScript 2.0; function in JavaScript; Array methods in JavaScript; Object-oriented programming in JavaScript; PHP) 
+- JS/FE Pre-School 2022 
 
 ---
 ### Language:
