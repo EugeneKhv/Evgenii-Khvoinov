@@ -1,5 +1,5 @@
-### Khvoinov Evgenii
-## Junior frontend developer
+## Khvoinov Evgenii
+### Junior frontend developer
 ---
 ### Contacts 
 
