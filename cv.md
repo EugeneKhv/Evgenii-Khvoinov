@@ -1,5 +1,5 @@
 ### Khvoinov Evgenii
-### Junior frontend developer
+## Junior frontend developer
 ---
 ### Contacts 
 
@@ -36,8 +36,8 @@ Experienced in:
 - CorelDraw,
 - Figma,
 - SEO,
-- GoogleAds,
-- GoogleAnalitics
+- Google Ads,
+- Google Analitics
 
 ### Skills 
 - Responsive layout,
