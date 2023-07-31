@@ -17,7 +17,7 @@
 I have been programming websites for the past 8 years. I love programming and looking forward to work with new clients.
 Experienced in:
 
-- Creating, administering, filling sites;
+- Creating, administering, filling websites;
 - Seo-optimization, maintaining contextual and banner campaigns in search - engines;
 - Analytical work like audit of site`s ergonomics and semantics;
 - Contextual advertising campaigns (monitoring, adjustment, performance evaluation);
