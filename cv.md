@@ -9,7 +9,7 @@
 
 **Email**: lifeman1979@gmail.com
 
-**GitHub**: https://github.com/EugeneKhv
+**GitHub**: [https://github.com/EugeneKhv](https://github.com/EugeneKhv)
 
 ---
 ### About Me 
