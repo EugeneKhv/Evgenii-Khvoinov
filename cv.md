@@ -39,12 +39,13 @@ Experienced in:
 - Figma,
 - SEO,
 - Google Ads,
-- Google Analitics
+- Google Analitics,
+- Git
 
 ### Skills 
+- Website creation,
 - Responsive layout,
 - Cross-browser semantic valid layout,
-- Git,
 - SEO-optimization
 
 ---
